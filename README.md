@@ -1,7 +1,7 @@
 # intro_ggplot2
 ## Introduction to ggplot2 with example code and applications
 
-In the included R markdown document (intro_ggplot_final.Rmd), I've included an introduction to ggplot, example code, and walkthrough exercises. 
+In the included R markdown document (intro_ggplot_final.Rmd), I've included an introduction to ggplot, example code, and walkthrough exercises. I've also included the .pdf output of the markdown document (intro_ggplot_final.pdf). 
 
 Topics include:
 
